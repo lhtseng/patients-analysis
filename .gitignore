@@ -1,2 +1,6 @@
+# ignore big data file
 big-data.zip
+# ignore data files
 data/
+# ignore vs file
+.vs/
